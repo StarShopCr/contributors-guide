@@ -11,7 +11,7 @@ Welcome! Follow these steps to contribute effectively to the StarShop project. L
 - Look for an open issue and comment expressing your interest to work on it.
 - Wait for the maintainer to assign the issue to you.
 - Remember to apply only if you are able to solve the issue.
-- In the comment, Add a quick introduction, The ETA, and the plan on how to tacle the issue.
+- In the comment, Add a quick introduction, The ETA, and the plan on how to tackle the issue.
 
 ---
 
