@@ -1,11 +1,11 @@
 
-# StarShop Contribution Guide
+# StarShop Contribution Guide💫
 
 Welcome! Follow these steps to contribute effectively to the StarShop project. Let’s build a transparent, blockchain-powered marketplace together!
 
 ---
 
-## Steps to Contribute
+## Steps to Contribute🤝
 
 ### 1. Apply for an Issue
 - Look for an open issue and comment expressing your interest to work on it.
@@ -15,14 +15,14 @@ Welcome! Follow these steps to contribute effectively to the StarShop project. L
 
 ---
 
-### 2. Contact the Maintainer
+### 2. Contact the Maintainer📲
 Once assigned, contact the maintainer via Telegram to let them know you’re currently working on the assigned issue and provide a brief idea of how you plan to tackle it.
 
 Telegram: [@StarShop](https://t.me/starshopcr)
 
 ---
 
-### 3. Fork and Clone the Repository
+### 3. Fork and Clone the Repository 
 1. Fork the repository from GitHub.
 2. Clone it to your local machine:
    ```bash
