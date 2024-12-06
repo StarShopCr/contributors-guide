@@ -34,7 +34,7 @@ Instead, provide a **clear explanation of your approach in 5-6 lines maximum**, 
 - Look for an open issue and comment expressing your interest to work on it.
 - Wait for the maintainer to assign the issue to you.
 - Remember to apply only if you are able to solve the issue.
-- In the comment, Add a quick introduction about you, The ETA, and how you plan to tackle the issuee.
+- In the comment, Add a quick introduction about yourself, The ETA, and how you plan to tackle the issuee.
 
 ---
 
