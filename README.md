@@ -19,7 +19,7 @@ Comments like:
 
 🚫 *"Can I tackle this?"*  
 
- Will **not be considered**, and you will **not be assigned** the issue.  
+ Will **not be considered**, and you ** won't be assigned**.  
 
 Instead, provide a **clear explanation of your approach in 5-6 lines maximum**, including:  
  - A brief introduction.  
