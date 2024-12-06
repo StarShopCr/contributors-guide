@@ -22,9 +22,9 @@ Comments like:
   **Won't be considered**, and you **won't be assigned**.  
 
 Instead, provide a **clear explanation of your approach in 5-6 lines maximum**, including:  
- - A brief introduction.  
+
 - Your estimated completion time (ETA).  
- - A concise plan to solve the issue.
+- A concise plan to solve the issue.
 
 ---
 
