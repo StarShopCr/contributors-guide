@@ -5,16 +5,26 @@ Welcome! Follow these steps to contribute effectively to the StarShop project. L
 
 ---
 
-## Important Note before applying: 📝
-**Avoid Generic Comments**: Comments like *"Can I help on this one?"*, *"I’d love to contribute!"*, *"Checkout my profile!"*, or *"Can I tackle this?"* will **not be considered**, and you will **not be assigned** the issue.  
+## Important Notes before applying 📝
 
-  - Instead, **explain your approach in 5-6 lines maximum**, including:
+ **⚠️ Avoid Generic Comments:**  
+ 
+Comments like:  
 
-    1. A brief introduction.
-    2. Your estimated completion time (ETA).
-    3. A concise plan to solve the issue.
+ 🚫 *"Can I help on this one?"*  
 
-Be respectful and adhere to our community guidelines.
+🚫 *"I’d love to contribute!"*  
+
+🚫 *"Checkout my profile!"*  
+
+🚫 *"Can I tackle this?"*  
+
+These will **not be considered**, and you will **not be assigned** the issue.  
+
+Instead, provide a **clear explanation of your approach in 5-6 lines maximum**, including:  
+ - A brief introduction.  
+- Your estimated completion time (ETA).  
+ - A concise plan to solve the issue.
 
 ---
 
