@@ -5,7 +5,7 @@ Welcome! Follow these steps to contribute effectively to the StarShop project. L
 
 ---
 
-## Important Note before applying 📝
+## Important Note Before Applying 📝
 
  **⚠️ Avoid Generic Comments:**  
  
