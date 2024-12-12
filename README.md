@@ -23,7 +23,7 @@ Comments like:
 
 Instead, provide a **clear explanation of your approach **, including:  
 
-- A introduction about yourself
+- An introduction about yourself
 - A concise plan to solve the issue (6-8 lines max).
 - Your estimated completion time (ETA).  
 
